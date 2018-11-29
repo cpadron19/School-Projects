@@ -1,0 +1,9 @@
+c:\users\camer\source\repos\LWTech.CameronPadron.Assignment8\LWTech.CameronPadron.Assignment8\bin\Debug\LWTech.CameronPadron.Assignment8.exe.config
+c:\users\camer\source\repos\LWTech.CameronPadron.Assignment8\LWTech.CameronPadron.Assignment8\bin\Debug\LWTech.CameronPadron.Assignment8.exe
+c:\users\camer\source\repos\LWTech.CameronPadron.Assignment8\LWTech.CameronPadron.Assignment8\bin\Debug\LWTech.CameronPadron.Assignment8.pdb
+c:\users\camer\source\repos\LWTech.CameronPadron.Assignment8\LWTech.CameronPadron.Assignment8\bin\Debug\Newtonsoft.Json.dll
+c:\users\camer\source\repos\LWTech.CameronPadron.Assignment8\LWTech.CameronPadron.Assignment8\bin\Debug\Newtonsoft.Json.xml
+c:\users\camer\source\repos\LWTech.CameronPadron.Assignment8\LWTech.CameronPadron.Assignment8\obj\Debug\LWTech.CameronPadron.Assignment8.csprojResolveAssemblyReference.cache
+c:\users\camer\source\repos\LWTech.CameronPadron.Assignment8\LWTech.CameronPadron.Assignment8\obj\Debug\LWTech.CameronPadron.Assignment8.csproj.CoreCompileInputs.cache
+c:\users\camer\source\repos\LWTech.CameronPadron.Assignment8\LWTech.CameronPadron.Assignment8\obj\Debug\LWTech.CameronPadron.Assignment8.exe
+c:\users\camer\source\repos\LWTech.CameronPadron.Assignment8\LWTech.CameronPadron.Assignment8\obj\Debug\LWTech.CameronPadron.Assignment8.pdb
