@@ -1,0 +1,14 @@
+c:\users\camer\source\repos\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\bin\Debug\LwTech.CameronPadron.Assignment7.exe.config
+c:\users\camer\source\repos\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\bin\Debug\LwTech.CameronPadron.Assignment7.exe
+c:\users\camer\source\repos\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\bin\Debug\LwTech.CameronPadron.Assignment7.pdb
+c:\users\camer\source\repos\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\obj\Debug\LwTech.CameronPadron.Assignment7.csprojResolveAssemblyReference.cache
+c:\users\camer\source\repos\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\obj\Debug\LwTech.CameronPadron.Assignment7.csproj.CoreCompileInputs.cache
+c:\users\camer\source\repos\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\obj\Debug\LwTech.CameronPadron.Assignment7.exe
+c:\users\camer\source\repos\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\obj\Debug\LwTech.CameronPadron.Assignment7.pdb
+C:\Users\camer\Desktop\LWTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\bin\Debug\LwTech.CameronPadron.Assignment7.exe.config
+C:\Users\camer\Desktop\LWTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\bin\Debug\LwTech.CameronPadron.Assignment7.exe
+C:\Users\camer\Desktop\LWTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\bin\Debug\LwTech.CameronPadron.Assignment7.pdb
+C:\Users\camer\Desktop\LWTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\obj\Debug\LwTech.CameronPadron.Assignment7.csprojResolveAssemblyReference.cache
+C:\Users\camer\Desktop\LWTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\obj\Debug\LwTech.CameronPadron.Assignment7.csproj.CoreCompileInputs.cache
+C:\Users\camer\Desktop\LWTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\obj\Debug\LwTech.CameronPadron.Assignment7.exe
+C:\Users\camer\Desktop\LWTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\LwTech.CameronPadron.Assignment7\obj\Debug\LwTech.CameronPadron.Assignment7.pdb
